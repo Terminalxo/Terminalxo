@@ -17,6 +17,7 @@
 - 🌱 Always exploring new languages, frameworks, and tools
 - 💬 Ask me about C/C++, Python, Rust, TypeScript, or Flutter
 - ⚡ Fun fact: I probably have too many tabs open right now
+- 👨‍🎓 I'm a student at the AI Student Community(AISC)
 
 ---
 
