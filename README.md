@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm terminalxo👋</h1>
+<h1 align="center">Hi there, I'm Terminalxo👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Systems+%26+Automation+Tinkerer;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
