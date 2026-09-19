@@ -7,7 +7,7 @@
 <a href="https://github.com/terminalxo"><img src="https://img.shields.io/badge/GITHUB-terminalxo-0A0A0B?style=for-the-badge&logo=github&logoColor=D93642&labelColor=0A0A0B" alt="GitHub" /></a>
 <a href="mailto:terminalX0.apple@gmail.com"><img src="https://img.shields.io/badge/MAIL-terminalX0.apple%40gmail.com-0A0A0B?style=for-the-badge&logo=gmail&logoColor=D93642&labelColor=0A0A0B" alt="Email" /></a>
 <a href="https://youtube.com/@TerminalX0"><img src="https://img.shields.io/badge/YOUTUBE-@TerminalX0-0A0A0B?style=for-the-badge&logo=youtube&logoColor=D93642&labelColor=0A0A0B" alt="YouTube" /></a>
-<a href="https://instagram.com/terminalX0"><img src="https://img.shields.io/badge/INSTAGRAM-@terminalX0-0A0A0B?style=for-the-badge&logo=instagram&logoColor=D93642&labelColor=0A0A0B" alt="Instagram" /></a>
+<a href="https://instagram.com/waariyaan"><img src="https://img.shields.io/badge/INSTAGRAM-@waariyaan-0A0A0B?style=for-the-badge&logo=instagram&logoColor=D93642&labelColor=0A0A0B" alt="Instagram" /></a>
 <a href="https://discord.gg/wNg9EMpxMF"><img src="https://img.shields.io/badge/DISCORD-CONNECT-0A0A0B?style=for-the-badge&logo=discord&logoColor=D93642&labelColor=0A0A0B" alt="Discord" /></a>
 
 <br/><br/>
@@ -188,7 +188,7 @@ After you add the workflow and run it once, assets/live-heatmap.svg will be refr
 **GitHub** [`terminalxo`](https://github.com/terminalxo) &nbsp;·&nbsp;
 **Email** [`terminalX0.apple@gmail.com`](mailto:terminalX0.apple@gmail.com) &nbsp;·&nbsp;
 **YouTube** [`@TerminalX0`](https://youtube.com/@TerminalX0) &nbsp;·&nbsp;
-**Instagram** [`@terminalX0`](https://instagram.com/terminalX0) &nbsp;·&nbsp;
+**Instagram** [`@waariyaan`](https://instagram.com/waariyaan) &nbsp;·&nbsp;
 **Discord** [`connect`](https://discord.gg/wNg9EMpxMF)
 
 <br/>
