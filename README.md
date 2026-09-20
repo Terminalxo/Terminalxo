@@ -15,7 +15,7 @@
 <a href="https://github.com/terminalxo"><img src="https://img.shields.io/badge/GitHub-terminalxo-0A0A0B?style=for-the-badge&logo=github&logoColor=D93642&labelColor=0A0A0B" alt="GitHub" /></a>
 <a href="mailto:terminalX0.apple@gmail.com"><img src="https://img.shields.io/badge/Email-terminalX0.apple%40gmail.com-0A0A0B?style=for-the-badge&logo=gmail&logoColor=D93642&labelColor=0A0A0B" alt="Email" /></a>
 <a href="https://youtube.com/@TerminalX0"><img src="https://img.shields.io/badge/YouTube-@TerminalX0-0A0A0B?style=for-the-badge&logo=youtube&logoColor=D93642&labelColor=0A0A0B" alt="YouTube" /></a>
-<a href="https://instagram.com/terminalX0"><img src="https://img.shields.io/badge/Instagram-@terminalX0-0A0A0B?style=for-the-badge&logo=instagram&logoColor=D93642&labelColor=0A0A0B" alt="Instagram" /></a>
+<a href="https://instagram.com/waariyaan"><img src="https://img.shields.io/badge/Instagram-@waariyaan-0A0A0B?style=for-the-badge&logo=instagram&logoColor=D93642&labelColor=0A0A0B" alt="Instagram" /></a>
 <a href="https://discord.gg/wNg9EMpxMF"><img src="https://img.shields.io/badge/Discord-Connect-0A0A0B?style=for-the-badge&logo=discord&logoColor=D93642&labelColor=0A0A0B" alt="Discord" /></a>
 
 </div>
@@ -156,31 +156,8 @@ community:
 
 ---
 
-## `05 // PROJECTS`
 
-```text
-~/projects
-├── 01  featured project // add your best repo here
-├── 02  featured project // add your best repo here
-├── 03  featured project // add your best repo here
-└── ??  more experiments are always compiling
-```
-
-> Replace this section with your top 3–5 repositories.  
-> Best format: **project name + one-line purpose + tech stack + repo/demo links**
-
-Example:
-
-```md
-### Project Name
-Short line explaining what it does and why it is interesting.  
-`TypeScript` `Tauri` `SQLite`  
-[repo](https://github.com/terminalxo/example) · [demo](https://example.com)
-```
-
----
-
-## `06 // CONTRIBUTION MATRIX`
+## `05 // CONTRIBUTION MATRIX`
 
 <div align="center">
 
@@ -192,7 +169,7 @@ Short line explaining what it does and why it is interesting.
 
 ---
 
-## `07 // TELEMETRY`
+## `06 // TELEMETRY`
 
 <div align="center">
 
@@ -207,7 +184,7 @@ Short line explaining what it does and why it is interesting.
 
 ---
 
-## `08 // RANDOM DEV TRANSMISSION`
+## `07 // RANDOM DEV TRANSMISSION`
 
 <div align="center">
 
@@ -217,7 +194,7 @@ Short line explaining what it does and why it is interesting.
 
 ---
 
-## `09 // OPEN CHANNEL`
+## `08 // OPEN CHANNEL`
 
 <div align="center">
 
@@ -226,7 +203,7 @@ Short line explaining what it does and why it is interesting.
 **GitHub** [`terminalxo`](https://github.com/terminalxo)  
 **Email** [`terminalX0.apple@gmail.com`](mailto:terminalX0.apple@gmail.com)  
 **YouTube** [`@TerminalX0`](https://youtube.com/@TerminalX0)  
-**Instagram** [`@terminalX0`](https://instagram.com/terminalX0)  
+**Instagram** [`@waariyaan`](https://instagram.com/waariyaan)  
 **Discord** [`connect`](https://discord.gg/wNg9EMpxMF)
 
 <br/>
