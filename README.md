@@ -47,6 +47,7 @@ My main interests sit at the intersection of:
 - **systems**
 - **automation**
 - **software engineering**
+- **When boared vibe-Coding**
 
 I like working close to the metal just as much as I like building polished software.  
 If it runs, connects, compiles, blinks, or can be explored from a terminal, I’m interested.
